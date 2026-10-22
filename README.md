@@ -1,8 +1,13 @@
 # MyBoggleApp — Word Hunt Game
+## Overview
 
 A Word game built with Java Swing for my Grade 12 Computer Science (ICS4U) culminating project.
 
-Basically, it's a multiplayer version of Word Hunt where players find words by connecting adjacent letters on a 5×5 board. Longer words earn more points, and the player with the highest score wins.
+<img width="2559" height="1599" alt="Screenshot 2026-10-21 212120" src="https://github.com/user-attachments/assets/ecb112a4-63cd-44be-9221-3d578601ef6c" />
+
+
+
+It's a multiplayer version of Word Hunt where players find words by connecting adjacent letters on a 5×5 board. Longer words earn more points, and the player with the highest score wins.
 
 ## Features
 
